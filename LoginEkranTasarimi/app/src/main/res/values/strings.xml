@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginEkranTasarimi</string>
+
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="buttonYazi">GİRİŞ</string>
+    <string name="yardim">Yardım ?</string>
+</resources>
